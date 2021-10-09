@@ -1,0 +1,17 @@
+header {
+    background-color: #505050;
+    
+}
+
+header nav {
+    display: flex;
+} 
+
+header nav div {
+    margin: 16px;
+}
+
+header nav div span:hover {
+    color: #daa520 !important;
+    text-decoration: underline !important;
+}
